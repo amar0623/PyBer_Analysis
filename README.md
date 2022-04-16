@@ -12,5 +12,7 @@ While rural drivers may make more per individual ride, rural driving is less pro
 
 ### Recommendations
 From a business perspective, it may become more profitable to limit the number of urban drivers. This will help raise the demand amongst a smaller pool of drivers, increasing fares for drivers and bringing more profit to the company.
+
 In rural areas, offering incentives for riders (such as discount codes or a rewards system) may help drum up business and make rural areas more profitable.
+
 Urban areas may also want to set a fare baseline. The average fare per driver is $16, which is less than half of the suburban fare. In urban areas, there's typically more traffic than suburban or rural areas, which means ride times will be increased (for pick-up, the ride, and drop-off). Setting a baseline fare fee will help alleviate disparity for drivers fares and bring more profit to the company.
